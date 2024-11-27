@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable background1
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id appTitle
+id deleteButton
+id itemTextView
+id messageListView
+layout activity_main
+layout list_item_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Sms_recever
+style Theme.Sms_recever
+xml backup_rules
+xml data_extraction_rules
